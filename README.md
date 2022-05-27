@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaquinamado
 - 👀 I’m interested in movile development
-- 🌱 I’m currently learning c++ and Flutter
+- 🌱 I’m currently learning c++
 - 📫 How to reach me joaquin.amado26@gmail.com
 
 <!---
