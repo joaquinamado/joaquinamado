@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaquinamado
-- 👀 I’m interested in movile development
-- 🌱 I’m currently learning c++
-- 📫 How to reach me joaquin.amado26@gmail.com
+- I'm sudying computer science at UDELAR (Universidad de la republica Uruguay).
+- I’m currently learning c++ and OOP
+- How to reach me joaquin.amado26@gmail.com
 
 <!---
 joaquinamado/joaquinamado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
