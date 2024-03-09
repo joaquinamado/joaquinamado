@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaquinamado
 - I'm sudying computer science at UDELAR (Universidad de la republica Uruguay).
-- I’m currently learning c++ and OOP
+- I’m currently working with Flutter and Express.js 
 - How to reach me joaquin.amado26@gmail.com
 
 <!---
