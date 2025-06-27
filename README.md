@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @joaquinamado
-- I'm sudying computer science at UDELAR (Universidad de la republica Uruguay).
 - I’m currently working with Flutter and Express.js
 - Learning Go a Docker!
 - How to reach me joaquin.amado26@gmail.com
