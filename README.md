@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaquinamado
 - I’m currently working with Flutter and Express.js
-- Learning Go a Docker!
+- Learning about embedded systems
 - How to reach me joaquin.amado26@gmail.com
 
 <!---
